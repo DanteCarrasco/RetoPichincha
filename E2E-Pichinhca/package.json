@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "cypress": "^13.1.0"
+  },
+
+  "scripts": {
+    "cy:run:chrome": "cypress run -b Chrome",
+    "cy:run:edge": "cypress run -b Edge"
+  }
+}
